@@ -1,11 +1,11 @@
 # Site settings
-title: 0xmc blog
-SEOTitle: 0xmc's blog | mc Blog
+title: 0xJezex blog
+SEOTitle: 0xJezex's blog | Jezex Blog
 header-img: img/home-bg.jpg
 email: 0xmc.com@gmail.com
-description: "0xmc's blog | mc Blog"
-keyword: "0xmc blockchain web3 ethereum "
-url: "https://0xmc.com"              # your host, for absolute URL
+description: "0xJezex's blog | Jezex Blog"
+keyword: "0xJezex blockchain web3 ethereum "
+url: "https://0xjezex.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 # weibo_username:     0xmc
 # zhihu_username:     0xmc
-github_username:    0x-mc
+github_username:    0xJezex
 twitter_username:   0xMC_com
 #facebook_username:  0xmc
 #linkedin_username:  firstname-lastname-idxxxx
