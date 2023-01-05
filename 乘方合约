@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "test1"
+subtitle:   "20220216"
+date:       2022-02-16
+author:     "0xmc"
+header-img: "img/home-bg-o.jpg"
+mathjax: true
+tags:
+    - test
+    - report
+---
+首先建设股票的价格为$S$遵循几何布朗运动，则有$\frac{dS}{S}=r dt+v dB_t$ 或者$dS=r Sdt+v SdB_t$，其中r为无风险利率，v为波动率。
+$dS·dS=r^2S^2(dt)^2+2rvS^2dB_tdt+v^2S^2(dB_t)^2$
+将以下公式带入上式子
+$dB(t)dB(t)=dt$
+$dt dB(t)=0$
+$dt dt=0$
+得：
+$dS·dS=v^2S^2(dB_t)^2$
+由于股票遵循几何布朗运动，我们把$S^p$当做关于S的函数，使用伊藤公式进行类似微分操作可得：
+$dS^p=pS^{p-1}dS+\frac12p(p-1)S^{p-2}dS·dS=pS^{p-1}dS+\frac12p(p-1)S^{p-2}(v S)^2dt$
+等号右边提出$S^p$得到下面式子：
