@@ -80,7 +80,7 @@ ga_domain: 0xJezex.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "0xJezex, web3 coder."
-sidebar-avatar: https://github.com/0xJezex/ipictures.github.io/blob/master/me/phonephoto/touxiang.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://avatars.githubusercontent.com/u/92563545?s=400&u=58b0263845499a2b421572f47f03b47f37f455a5&v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
